@@ -1,0 +1,19 @@
+
+> trinity-tree@0.1.0 dev
+> next dev
+
+  ▲ Next.js 14.2.16
+  - Local:        http://localhost:3000
+  - Environments: .env
+
+ ✓ Starting...
+ ✓ Ready in 1804ms
+ ○ Compiling /src/middleware ...
+ ✓ Compiled /src/middleware in 1766ms (129 modules)
+ ○ Compiling / ...
+ ✓ Compiled / in 10.5s (860 modules)
+ ✓ Compiled in 1397ms (333 modules)
+ GET / 200 in 12887ms
+<w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (106kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+<w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (253kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+ GET / 200 in 7113ms
